@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Explanation of the importance of entertainment](chapter-1-2.md)
   - [The role of ChatGPT in creating new interactive experiences](chapter-1-3.md)
 - [Chapter 1: Basics of Entertainment](chapter-2.md)
