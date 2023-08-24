@@ -1,5 +1,3 @@
-How ChatGPT can be used for creating new interactive experiences in entertainment
-===================================================================================================================
 
 ChatGPT is a powerful language model that has the potential to transform the way we experience entertainment. In this chapter, we will explore how ChatGPT can be used to create new and innovative interactive experiences for users in the entertainment industry.
 

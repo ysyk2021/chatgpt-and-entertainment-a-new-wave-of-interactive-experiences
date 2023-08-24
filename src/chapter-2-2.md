@@ -1,5 +1,3 @@
-Different Types of Entertainment
-====================================================================
 
 Entertainment is a broad term that encompasses many different forms of activity. In this chapter, we will explore the various types of entertainment that exist today.
 

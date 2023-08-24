@@ -1,5 +1,3 @@
-Definition of Entertainment
-===============================================================
 
 Entertainment is a form of activity that provides amusement or enjoyment to an audience. It is a widely recognized aspect of human culture and has been around for thousands of years in various forms.
 

@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a state-of-the-art natural language processing model that has the potential to revolutionize the entertainment industry. In this chapter, we will explore the features and capabilities of ChatGPT, which make it such a powerful tool for creating new and innovative interactive experiences.
 

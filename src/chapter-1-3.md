@@ -1,5 +1,3 @@
-The role of ChatGPT in creating new interactive experiences
-=========================================================================
 
 ChatGPT is an artificial intelligence language model that has revolutionized the way we communicate with machines. With its advanced natural language processing capabilities, ChatGPT enables us to have more human-like interactions with technology. In this book, we explore how ChatGPT can be used to create new and innovative interactive experiences in the entertainment industry.
 

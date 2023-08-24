@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is a cutting-edge natural language processing model developed by OpenAI. It uses a transformer architecture to generate human-like responses to user inputs. ChatGPT was trained on a massive dataset of text from the internet, which allows it to understand and respond to a wide range of topics and conversations.
 

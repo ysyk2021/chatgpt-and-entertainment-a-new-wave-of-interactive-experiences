@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Entertainment Industry
-===============================================
 
 The entertainment industry faces numerous challenges that can impact both providers and users. In this chapter, we will explore the factors affecting the industry, common challenges faced by providers, and the impact of these challenges on user experience.
 

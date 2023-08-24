@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will explore the details of ChatGPT, including what it is, its features and capabilities, and how it can be used for creating new interactive experiences in entertainment.
 

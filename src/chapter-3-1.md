@@ -1,5 +1,3 @@
-Factors affecting entertainment industry
-=========================================================================================
 
 The entertainment industry is a constantly evolving landscape, facing numerous challenges that can impact its success. In this chapter, we will explore some of the factors that are affecting the entertainment industry today.
 

@@ -1,5 +1,3 @@
-Chapter 1: Basics of Entertainment
-==================================
 
 Entertainment is an important aspect of human life, providing enjoyment and relaxation. In this chapter, we will explore the definition of entertainment, different types of entertainment, and the importance of providing engaging experiences to users.
 

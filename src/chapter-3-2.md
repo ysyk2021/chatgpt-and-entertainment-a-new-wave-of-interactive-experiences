@@ -1,5 +1,3 @@
-Common challenges faced by entertainment providers
-===================================================================================================
 
 The entertainment industry is a highly competitive and rapidly changing landscape, with numerous challenges facing providers. In this chapter, we will explore some of the common challenges faced by entertainment providers.
 

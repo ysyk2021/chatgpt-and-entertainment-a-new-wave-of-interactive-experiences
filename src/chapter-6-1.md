@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Entertainment Industry
-===============================================================================================================
 
 ChatGPT has the potential to transform the entertainment industry by creating new and innovative interactive experiences for users. In this chapter, we will explore the steps to implement ChatGPT in the entertainment industry.
 

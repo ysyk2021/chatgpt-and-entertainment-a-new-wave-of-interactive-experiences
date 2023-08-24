@@ -1,5 +1,3 @@
-Benefits of using AI and chatbots for entertainment industry
-==============================================================================================================================
 
 Artificial Intelligence (AI) and chatbots are transforming the entertainment industry, creating new interactive experiences for audiences. In this chapter, we will explore the benefits of using AI and chatbots in the entertainment industry.
 

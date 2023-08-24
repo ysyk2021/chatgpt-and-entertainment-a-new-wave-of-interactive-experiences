@@ -1,5 +1,3 @@
-Impact of these challenges on user experience
-==============================================================================================
 
 The entertainment industry is facing numerous challenges that can impact user experience. In this chapter, we will explore some of the major challenges and how they can impact the user experience.
 
