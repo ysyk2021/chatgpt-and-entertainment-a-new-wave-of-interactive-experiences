@@ -8,3 +8,7 @@ This book provides an overview of ChatGPT technology and its potential applicati
 By the end of this book, readers will have a deep understanding of the potential of ChatGPT technology in the entertainment industry and how it can be leveraged to create new interactive experiences that are truly unforgettable. Whether you are a content creator, marketer, or simply a fan of entertainment, this book offers valuable insights into the future of this dynamic and exciting field.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
