@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to AI (Artificial Intelligence) and its application in the creation of chatbots. We will explore the basics of AI, its capabilities, and the role of chatbots in delivering interactive and engaging experiences to users.
 

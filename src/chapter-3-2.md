@@ -1,5 +1,4 @@
-Chapter: Common Challenges Faced by Entertainment Providers
-===========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss some of the common challenges faced by entertainment providers when incorporating ChatGPT-powered interactive experiences into their offerings. These challenges encompass technical, operational, and user-related aspects that require careful consideration and strategic planning.
 

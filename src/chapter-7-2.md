@@ -1,5 +1,4 @@
-Chapter: Emerging Trends and Challenges in the Entertainment Industry and ChatGPT
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the emerging trends and challenges in the entertainment industry and how they intersect with the use of ChatGPT for creating interactive experiences. We will explore the evolving landscape of entertainment and the potential obstacles that can impact the implementation of ChatGPT-powered solutions.
 

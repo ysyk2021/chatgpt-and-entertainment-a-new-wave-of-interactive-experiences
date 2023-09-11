@@ -1,5 +1,4 @@
-Chapter: How ChatGPT Can be Used for Creating New Interactive Experiences in Entertainment
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the transformative role of ChatGPT in creating new interactive experiences in the entertainment industry. We will discuss how ChatGPT, powered by advanced natural language processing and machine learning algorithms, is revolutionizing storytelling, audience engagement, and content personalization.
 

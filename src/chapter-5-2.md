@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT that make it such a powerful tool in enabling interactive experiences in the entertainment industry. We will discuss the key functionalities of ChatGPT and how they can be leveraged to deliver personalized, engaging, and immersive entertainment content.
 

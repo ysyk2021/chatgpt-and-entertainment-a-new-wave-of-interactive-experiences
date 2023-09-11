@@ -1,5 +1,4 @@
-Chapter: Factors Affecting the Entertainment Industry
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various factors that significantly impact the entertainment industry's evolution and adoption of ChatGPT-powered interactive experiences. These factors encompass technological advancements, changing consumer behaviors, market dynamics, and regulatory considerations.
 

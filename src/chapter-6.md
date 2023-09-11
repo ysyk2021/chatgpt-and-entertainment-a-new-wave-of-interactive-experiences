@@ -1,5 +1,4 @@
-Chapter 5: Implementing ChatGPT in the Entertainment Industry
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the steps to implement ChatGPT in the entertainment industry, discuss best practices for using ChatGPT to improve user experience, and examine case studies of entertainment providers that have successfully integrated ChatGPT into their services.
 

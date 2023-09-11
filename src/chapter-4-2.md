@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots Can Create New Interactive Experiences for Entertainment
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the innovative ways in which AI and chatbots are revolutionizing the entertainment industry by creating new interactive experiences for audiences. These technologies have opened up exciting possibilities for engaging and immersive entertainment, transforming the way audiences consume and interact with content.
 

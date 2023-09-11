@@ -1,5 +1,4 @@
-Chapter: What is ChatGPT?
-=========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of ChatGPT and provide an overview of its capabilities, applications, and significance in the entertainment industry.
 

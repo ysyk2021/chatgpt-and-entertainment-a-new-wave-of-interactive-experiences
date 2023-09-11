@@ -1,5 +1,4 @@
-Chapter: Definition of Entertainment
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the definition of entertainment and its significance in our lives. We will delve into the various aspects and forms of entertainment, discussing how it has evolved over time and the role it plays in providing enjoyment, relaxation, and cultural enrichment.
 

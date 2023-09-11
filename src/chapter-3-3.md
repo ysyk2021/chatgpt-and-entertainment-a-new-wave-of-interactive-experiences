@@ -1,5 +1,4 @@
-Chapter: Impact of These Challenges on User Experience
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the challenges that arise in implementing ChatGPT for entertainment purposes and explore their impact on the user experience. While ChatGPT offers exciting possibilities, it is important to address these challenges to ensure a seamless and enjoyable user experience.
 
